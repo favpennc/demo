@@ -2,17 +2,17 @@
 	"dsus_mstr": {
 		"prods:hasChanges": true,
 		"ttus_mstr": [{
-			"uss_userid": "A",
-			"ussName": "Aaron"
+			"text": "A",
+			"value": "Aaron"
 		}, {
-			"uss_userid": "B",
-			"ussName": "Bob"
+			"text": "B",
+			"value": "Bob"
 		}, {
-			"uss_userid": "C",
-			"ussName": "Chelsea"
+			"text": "C",
+			"value": "Chelsea"
 		}, {
-			"uss_userid": "D",
-			"ussName": "Dave"
+			"text": "D",
+			"value": "Dave"
 		}],
 		"prods:before": {}
 	}
