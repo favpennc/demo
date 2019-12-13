@@ -1,7 +1,7 @@
 {
-	"dsus_mstr": {
+	"dsemployees": {
 		"prods:hasChanges": true,
-		"ttus_mstr": [{
+		"ttemployees": [{
 			"text": "Aaaaa",
 			"value": "A"
 		}, {
@@ -109,6 +109,88 @@
 		}, {
 			"text": "00000",
 			"value": "0"
+		}],
+		"prods:before": {}
+	},
+	"dsjobs": {
+		"prods:hasChanges": true,
+		"ttjobs": [{
+			"value": 1,
+			"text": "Atlanta, GA"
+		}, {
+			"value": 2,
+			"text": "Denver, CO"
+		}, {
+			"value": 3,
+			"text": "Oklahoma City, OK"
+		}, {
+			"value": 4,
+			"text": "DALLAS, TX"
+		}, {
+			"value": 5,
+			"text": "ORANGE, CA"
+		}, {
+			"value": 6,
+			"text": "IRVING, TX"
+		}, {
+			"value": 7,
+			"text": "SUNRISE, FL"
+		}, {
+			"value": 8,
+			"text": "NEW YORK, NY"
+		}, {
+			"value": 9,
+			"text": "DALLAS, TX"
+		}, {
+			"value": 10,
+			"text": "OKLAHOMA CITY, OK"
+		}],
+		"prods:before": {}
+	},
+	"dslocations": {
+		"prods:hasChanges": true,
+		"ttlocations": [{
+			"value": 1,
+			"text": "Oklahoma City"
+		}, {
+			"value": 10,
+			"text": "Philadelphia"
+		}, {
+			"value": 11,
+			"text": "Phoenix"
+		}, {
+			"value": 12,
+			"text": "Atlanta"
+		}, {
+			"value": 13,
+			"text": "San Francisco"
+		}, {
+			"value": 14,
+			"text": "Washington, DC"
+		}, {
+			"value": 2,
+			"text": "Tulsa"
+		}, {
+			"value": 21,
+			"text": "New York City"
+		}, {
+			"value": 3,
+			"text": "Dallas"
+		}, {
+			"value": 4,
+			"text": "Denver"
+		}, {
+			"value": 6,
+			"text": "Las Vegas"
+		}, {
+			"value": 7,
+			"text": "Austin"
+		}, {
+			"value": 8,
+			"text": "Houston"
+		}, {
+			"value": 9,
+			"text": "Honolulu"
 		}],
 		"prods:before": {}
 	}
